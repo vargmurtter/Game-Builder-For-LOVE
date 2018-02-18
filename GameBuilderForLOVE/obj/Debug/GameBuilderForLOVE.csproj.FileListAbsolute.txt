@@ -1,0 +1,11 @@
+C:\Users\kruge\source\repos\GameBuilderForLOVE\GameBuilderForLOVE\bin\Debug\GameBuilderForLOVE.exe.config
+C:\Users\kruge\source\repos\GameBuilderForLOVE\GameBuilderForLOVE\bin\Debug\GameBuilderForLOVE.exe
+C:\Users\kruge\source\repos\GameBuilderForLOVE\GameBuilderForLOVE\bin\Debug\GameBuilderForLOVE.pdb
+C:\Users\kruge\source\repos\GameBuilderForLOVE\GameBuilderForLOVE\obj\Debug\GameBuilderForLOVE.csprojResolveAssemblyReference.cache
+C:\Users\kruge\source\repos\GameBuilderForLOVE\GameBuilderForLOVE\obj\Debug\GameBuilderForLOVE.Form1.resources
+C:\Users\kruge\source\repos\GameBuilderForLOVE\GameBuilderForLOVE\obj\Debug\GameBuilderForLOVE.Properties.Resources.resources
+C:\Users\kruge\source\repos\GameBuilderForLOVE\GameBuilderForLOVE\obj\Debug\GameBuilderForLOVE.csproj.GenerateResource.Cache
+C:\Users\kruge\source\repos\GameBuilderForLOVE\GameBuilderForLOVE\obj\Debug\GameBuilderForLOVE.csproj.CoreCompileInputs.cache
+C:\Users\kruge\source\repos\GameBuilderForLOVE\GameBuilderForLOVE\obj\Debug\GameBuilderForLOVE.exe
+C:\Users\kruge\source\repos\GameBuilderForLOVE\GameBuilderForLOVE\obj\Debug\GameBuilderForLOVE.pdb
+C:\Users\kruge\source\repos\GameBuilderForLOVE\GameBuilderForLOVE\bin\Debug\System.IO.Compression.ZipFile.dll
